@@ -24,7 +24,8 @@ Users should be able to:
 ### Links
 
 - Solution URL:https://github.com/Mokshagna-123/product-preview-card.git
-- Live Site URL:
+- Live Site URL: https://mokshagna-123.github.io/product-preview-card/
+
 
 ## My process
 
