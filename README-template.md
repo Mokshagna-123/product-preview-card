@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL:https://github.com/Mokshagna-123/product-preview-card.git
 - Live Site URL:
 
 ## My process
